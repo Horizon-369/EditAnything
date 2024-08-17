@@ -20,4 +20,5 @@ yapf==0.32.0
 prettytable==3.6.0
 basicsr==1.4.2
 diffusers==0.14.0
+safetensors==0.4.4
 accelerate==0.17.0
