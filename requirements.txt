@@ -1,4 +1,4 @@
-numpy==1.25.0
+numpy==1.26.1
 albumentations==1.3.0
 opencv-contrib-python
 imageio==2.9.0
@@ -18,7 +18,6 @@ timm==0.6.12
 addict==2.4.0
 yapf==0.32.0
 prettytable==3.6.0
-safetensors==0.2.7
 basicsr==1.4.2
 diffusers==0.14.0
 accelerate==0.17.0
